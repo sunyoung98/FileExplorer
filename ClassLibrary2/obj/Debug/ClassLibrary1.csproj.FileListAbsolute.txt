@@ -1,0 +1,12 @@
+C:\Users\tjsdu\source\repos\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\tjsdu\source\repos\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\tjsdu\source\repos\ClassLibrary2\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\tjsdu\source\repos\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tjsdu\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\tjsdu\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\tjsdu\Desktop\20191st\응소실\HW2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
